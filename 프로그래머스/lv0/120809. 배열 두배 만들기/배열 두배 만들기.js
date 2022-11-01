@@ -1,7 +1,7 @@
 function solution(numbers) {
     var answer = [];
-    numbers.forEach(num => {
-  answer.push(num * 2);
+    numbers.forEach(numbers => {
+  answer.push(numbers * 2);
 });
     return answer
 }
